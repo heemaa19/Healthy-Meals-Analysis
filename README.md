@@ -1,3 +1,7 @@
+!Python
+!Streamlit
+!Status
+
 ---
 
 ### 📸 Dashboard Preview
